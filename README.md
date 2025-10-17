@@ -65,30 +65,27 @@ By completing this project, you will:
 ## 🎨 UI/UX Design Planning
 
 ### Design Goals
-- Create an intuitive booking flow  
-- Maintain visual consistency  
-- Ensure fast loading times  
-- Prioritize mobile responsiveness  
+- Create an intuitive, low-friction booking flow  
+- Maintain visual consistency with a clear design system  
+- Ensure fast loading times and perceived performance  
+- Prioritize mobile-first responsiveness and accessibility (WCAG)  
 
 ### Key Features
-- Property search and filtering  
-- Detailed property viewing  
-- Secure checkout process  
-- User authentication  
+- Powerful property search with filters (location, dates, price, guests, amenities)  
+- Rich property details (gallery, amenities, reviews, map, availability)  
+- Simple, secure checkout (guest details, payment, confirmation)  
+- User authentication and saved preferences (optional)  
 
 ### Primary Pages
 
 | Page | Description |
-|------|--------------|
-| **Property Listing View** | Grid display of available properties with filters |
-| **Listing Detailed View** | Complete property details with images and booking form |
-| **Simple Checkout View** | Streamlined payment and booking confirmation |
+|------|-------------|
+| **Property Listing View** | Discover properties in a responsive grid/list with key info (price/night, rating, location). Includes filters, sort (price/rating), and pagination or infinite scroll. |
+| **Listing Detailed View** | Deep dive into a single property: image gallery, description, amenities, rules, reviews, map, price breakdown, and date/guest selector with live availability and a prominent “Reserve” CTA. |
+| **Simple Checkout View** | Minimal, step-light form: trip summary, guest details, payment method, price total with fees/taxes, clear policies, and a final confirmation. Inline validation and error messaging for trust. |
 
----
-
-## 💡 Importance of User-Friendly Design
-A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction.  
-Clear navigation, intuitive interfaces, and responsive design are critical for success.
+### Why a User‑Friendly Booking UX Matters
+A user-friendly booking experience reduces drop-off, builds trust, and increases conversions. Clear navigation, predictable patterns, accessible components, and fast feedback help users complete tasks confidently—especially on mobile and during payment where friction is most costly.
 
 ---
 
