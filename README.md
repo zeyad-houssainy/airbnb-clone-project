@@ -87,40 +87,54 @@ By completing this project, you will:
 ### Why a User‑Friendly Booking UX Matters
 A user-friendly booking experience reduces drop-off, builds trust, and increases conversions. Clear navigation, predictable patterns, accessible components, and fast feedback help users complete tasks confidently—especially on mobile and during payment where friction is most costly.
 
+### Figma Reference
+- Visit the Figma page here: [Open the design in Figma](https://www.figma.com/file/REPLACE_WITH_YOUR_LINK)  
+	Replace the placeholder URL with your team’s actual Figma file link.
+
+### Design Properties
+
+#### Color Styles
+- Primary: #FF5A5F  
+- Secondary: #008489  
+- Background: #FFFFFF  
+- Text: #222222  
+- Secondary Text: #717171
+
+#### Typography
+- Primary body:  
+	- Font family: Circular  
+	- Font weight: 500 (Medium)  
+	- Font size: 16px
+- Headings:  
+	- Font family: Circular  
+	- Font weight: 700 (Bold)  
+	- Font size: 24px–32px
+- Secondary text:  
+	- Font family: Circular  
+	- Font weight: 400 (Book)  
+	- Font size: 14px
+
+### Why Identify Design Properties Early
+Documenting colors, typography, spacing, and component tokens up front creates a single source of truth. It speeds up development, improves visual consistency, reduces rework, and makes handoff between design and engineering smoother—especially when scaling a design system across multiple pages and contributors.
+
 ---
 
-## 🎨 Figma Design Specifications
-
-### Color Styles
-| Type | Hex Code |
-|------|-----------|
-| **Primary** | `#FF5A5F` |
-| **Secondary** | `#008489` |
-| **Background** | `#FFFFFF` |
-| **Text** | `#222222` |
-| **Secondary Text** | `#717171` |
-
-### Typography
-| Type | Font | Weight | Size |
-|------|------|---------|------|
-| **Primary Font** | Circular | Medium (500) | 16px |
-| **Headings** | Circular | Bold (700) | 24px–32px |
-| **Secondary Text** | Circular | Book (400) | 14px |
-
----
+<!-- Consolidated Figma specs into the UI/UX Design Planning section above -->
 
 ## 👥 Project Roles and Responsibilities
 
-| Role | Responsibilities |
-|------|------------------|
-| **Project Manager** | Oversees timeline, coordinates team, manages deliverables |
-| **Frontend Developers** | Implement UI components, ensure responsive design |
-| **Backend Developers** | Build APIs, manage database, implement business logic |
-| **Designers** | Create mockups, maintain design system, ensure UX quality |
-| **QA/Testers** | Write test cases, perform testing, report bugs |
-| **DevOps Engineers** | Manage deployment, CI/CD pipeline, server infrastructure |
-| **Product Owner** | Define requirements, prioritize features, represent stakeholders |
-| **Scrum Master** | Facilitate agile processes, remove blockers, organize meetings |
+Clear roles help the team move faster and reduce ambiguity. Each role below includes key responsibilities and how it contributes to project success.
+
+| Role | Responsibilities | Contribution to Success |
+|------|------------------|-------------------------|
+| **Project Manager** | Owns roadmap and timeline; coordinates cross‑functional work; manages scope, risks, and communications. | Keeps delivery on time and within scope; aligns stakeholders to avoid churn. |
+| **Frontend Developers** | Implement UI components; integrate APIs; ensure responsive, accessible, and performant UX. | Deliver a polished user experience that drives adoption and conversions. |
+| **Backend Developers** | Design and build APIs; model data; ensure security, reliability, and performance. | Provide stable foundations that scale and keep user data safe. |
+| **Designers** | Produce mockups and prototypes; maintain the design system; run UX reviews and incorporate feedback. | Ensure clarity and consistency, reducing rework and improving usability. |
+| **QA/Testers** | Create test plans; automate critical flows; triage and verify defects; guard release quality. | Prevent regressions and protect user trust with reliable releases. |
+| **DevOps Engineers** | Own CI/CD; infrastructure as code; observability, reliability, and cost optimization. | Enable fast, safe deployments and quick recovery when issues occur. |
+| **Product Owner** | Define user stories and acceptance criteria; prioritize backlog; represent user and business value. | Maximize ROI by focusing the team on the highest‑value outcomes. |
+| **Scrum Master** | Facilitate ceremonies; remove impediments; coach on Agile practices and continuous improvement. | Improves team flow and predictability by reducing blockers and waste. |
 
 ---
 
